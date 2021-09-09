@@ -1,0 +1,7 @@
+.cartWidget {
+
+    display: flex;
+    border-radius: 75%;
+    padding: 2px;
+    background-color: #d9d7d7;
+}
